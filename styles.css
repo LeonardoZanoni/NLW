@@ -21,6 +21,16 @@ body * {
     line-height: 160%;
 }
 
+header {
+    margin-top: 32px;
+    text-align: center;
+}
+
+header img {
+    width: 120px;
+    border-radius: 50%;
+}
+
 main {
     max-width: 580px;
     width: 90%;
