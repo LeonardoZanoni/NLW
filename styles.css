@@ -25,6 +25,8 @@ main {
     max-width: 580px;
     width: 90%;
     margin: auto;
+    display: grid;
+    gap: 24px;
 }
 
 section {
@@ -40,6 +42,18 @@ section p {
     color: #A1A1AA;
 }
 
-ul {
+section ul {
     display: flex;
+    gap: 16px;
+    margin-top: 24px;
+}
+
+.games-list img {
+    border-radius: 8px;
+    width: 90px;
+}
+
+.channel-list img {
+    border-radius: 50%;
+    width: 70px;
 }
