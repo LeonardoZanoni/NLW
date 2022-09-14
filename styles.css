@@ -23,7 +23,7 @@ body * {
 
 header {
     padding-top: 32px;
-    height: calc(120px + 32px);
+    height: calc(120px+32px);
 }
 
 header div {
@@ -88,7 +88,7 @@ section ul {
 }
 
 section ul li {
-    transition: scale(1.1)
+    transition: transform .3s
 }
 
 section ul li:hover {
