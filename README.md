@@ -18,4 +18,6 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 ## Contato 
 
-leonardozanoni@outlook.com
+E-mail: leonardozanoni@outlook.com
+
+Linkedin: https://www.linkedin.com/in/leonardozanonigarcia/
