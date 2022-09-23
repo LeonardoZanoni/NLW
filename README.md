@@ -10,7 +10,7 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 ## Tecnologias
 
--HTML
+-HTML5
 
 -CSS
 
