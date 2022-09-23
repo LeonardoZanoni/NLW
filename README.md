@@ -12,7 +12,7 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 -HTML5
 
--CSS
+-CSS3
 
 -Git e Github
 
